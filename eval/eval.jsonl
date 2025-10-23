@@ -1,0 +1,3 @@
+{"q": "What is TF-IDF used for?", "ref": "TF-IDF weighs terms by inverse document frequency and helps rank documents for a query.", "keywords": ["tf", "idf", "frequency", "rank", "query"]}
+{"q": "If the answer is not in context, what should the system say?", "ref": "It should say: \"I don't have enough information.\"", "keywords": ["enough", "information", "context"]}
+{"q": "How are citations shown?", "ref": "Inline as [1], [2] corresponding to context chunks.", "keywords": ["[1]", "[2]", "citations"]}

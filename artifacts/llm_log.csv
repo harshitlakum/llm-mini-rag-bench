@@ -1,0 +1,9 @@
+cache_hit,completion_tok,cost_usd,latency_s,model,prompt_tok
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
+MOCK,0,0.000000,0.000,MOCK:gpt-4o-mini,0
